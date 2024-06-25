@@ -17,10 +17,4 @@ Let me put you on with my adventure as a passionate Data Analyst and enthusiasti
 <a href="https://www.linkedin.com/in/chandana-ravikumar-825914bb/" target="_blank" >
   <img src="https://img.shields.io/badge/_-0077B5?logo=linkedin&style=social" alt="LinkedIn"> 
 </a></br>
- <a href="https://chandanaravikumar4.github.io/" target="blank">
-  <img src="https://img.shields.io/badge/RJ-flouroscentgreen">
-</a>
 
-### My GitHub at a Glance!
-
-  <img src="https://github-readme-stats.vercel.app/api?username=chandanaravikumar4&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
