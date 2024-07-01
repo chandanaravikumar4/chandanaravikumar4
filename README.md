@@ -10,7 +10,7 @@ Let me put you on with my adventure as a passionate Data Analyst and enthusiasti
 - 💬 Ask me about the vision for my career in next 15 years!
 - 📫 How to reach me: [chandanaravikumar4@gmail.com](mailto:chandanaravikumar4@gmail.com)
 - 😄 Pronouns: She/her/hers
-### - ⚡ Fun fact: I love problem-solving, especially when it has a taste of Physics and reality!
+### - ⚡ Fun fact: I love problem-solving!
 
 ### Find me here!
 
