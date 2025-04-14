@@ -5,7 +5,7 @@ You have landed in Chandana's Data World! Welcome and it's my pleasure to see yo
 Let me put you on with my adventure as a passionate Database Developer and enthusiastic learner so far!
 
 - 🌱 I’m a Database Developer with 5 years of professional experience and currently pursuing my Master's in Data Science from University of the Cumberlands.
-- 🔭 I’m currently on look out for Data Analyst/Data Engineer/Data Scientist internship/full-time roles!
+- 🔭 I’m currently on look out for Data Analyst/Database developer/Data Engineer/Software engineer full-time roles!
 - 🤔 I’m looking forward to improving my skill set!
 - 💬 Ask me about the vision for my career in next 15 years!
 - 📫 How to reach me: [chandanaravikumar4@gmail.com](mailto:chandanaravikumar4@gmail.com)
