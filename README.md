@@ -2,7 +2,7 @@
 
 You have landed in Chandana's Data World! Welcome and it's my pleasure to see you here!
 
-Let me put you on with my adventure as a passionate Database Developer and enthusiastic learner so far!
+Let me put you on with my adventure as a passionate Data Analyst and enthusiastic learner so far!
 
 - 🌱 I’m a Database Developer with 5 years of professional experience and currently pursuing my Master's in Data Science from University of the Cumberlands.
 - 🔭 I’m currently on look out for Data Analyst/Database developer/Data Engineer/Software engineer full-time roles!
